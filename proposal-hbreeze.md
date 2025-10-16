@@ -81,7 +81,7 @@ Similar to how Vogsphere manages submissions at 42, these repositories could be 
 
 Since the event will be open to students at all levels of the cursus, I believe a duration of 5–7 days would be ideal. This length would give beginners time to find their footing and produce something meaningful, while also keeping advanced students engaged.
 
-A longer timeframe also accommodates students balancing school and personal responsibilities such as part-time work. However, I would be open to a shorter event if there is sufficient interest from participants.
+A longer timeframe also accommodates students balancing school and personal responsibilities such as work. However, I would be open to a shorter event if there is sufficient interest from participants.
 
 ## Judging Criteria
 
