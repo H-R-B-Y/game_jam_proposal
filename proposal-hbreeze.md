@@ -61,6 +61,8 @@ To build community engagement and generate excitement for the event, I would lik
 
 Alternatively, we could use an online theme generator to randomly select a theme. This would introduce more of a surprise element and limit participants’ ability to prepare in advance.
 
+The theme would be announced the day of.
+
 ## Submission System
 
 For submissions, I believe there are several possible approaches:
