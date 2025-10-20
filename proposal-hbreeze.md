@@ -21,39 +21,7 @@ To encourage collaboration, teams should consist of a minimum of two and a maxim
 
 ### Languages and Libraries
 
-The default here would be to limit the scope of languages and libraries to those students will be familiar with throughout the cursus as well as anything students have written themselves.
-
-I think there are two possible options for the scope:
-
-a) Minimal scope
-
-- Allowed Languages: C
-- Allowed Libraries: MinilibX
-- Programming Standard: Norminette
-
-b) Extended Scope:
-
-- Allowed Languages: C, C++
-- Allowed Libraries: MinilibX, OpenGL, Vulkan?
-- Programming Standard: Norminette, C++ Core Guidelines
-
-The extended scope would enable advanced students to work at their level and allow for more creative expression. However, it would also make judging more complex due to the broader range of tools and languages.
-
-### Audio Libraries (optional)
-
-I believe that keeping library usage limited to those approved throughout the common core ensures a level playing field. However, audio is a core component of game development.
-
-Since our focus is on Linux based projects, I suggest allowing at least one of the following audio libraries:
-
-- SFML Audio: C++ only, high-level, easy to use
-
-- OpenAL: C and C++, low-level, flexible
-
-- PortAudio: C and C++, low-level, portable
-
-- SDL2 Mixer: C and C++, mid-level, requires SDL2 (not currently on the graphics list, but could be included)
-
-Open to suggestions or for an open library policy for audio libraries if there is sufficient interest.
+To encourage participation, any language/library is allowed.
 
 ## Theme Selection
 
